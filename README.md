@@ -10,8 +10,9 @@ This repository documents the security audits I've conducted as part of my learn
 
 1. Manual & Static Analysis | Puppy Raffle Audit
 2. Invariants & Intro to DeFi | TSwap Audit
-3. Centralization, Proxies, and Oracles | Thunder Loan Audit 
-4. coming...
+3. Centralization, Proxies, and Oracles | Thunder Loan Audit
+4. Bridges, Chains, Signatures, Intro to Yul/Assembly | Bridge Boss Audit 
+5. coming...
 
 ## Learning Process
 
